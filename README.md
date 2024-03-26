@@ -1,4 +1,4 @@
-# Sales Insight Project
+# Sales Insight Project (Data Analytics Dashboard)
 
 ## Overview
 
